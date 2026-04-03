@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+httpx
+chromadb
+python-dotenv
+tiktoken
+numpy
+python-multipart
